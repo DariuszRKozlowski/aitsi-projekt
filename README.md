@@ -1,4 +1,4 @@
-# nowyprojekt
+# Projekt AiTSI
 
 ## Project setup
 ```
